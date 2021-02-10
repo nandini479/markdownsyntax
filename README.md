@@ -64,3 +64,39 @@ void main()
 [gmail](http://www.gmail.com/)
 ## add college website link
 [kits](http://www.kits.com/)
+## git commands
+- git init
+   - to initilase
+- git status
+- git branch
+   - current working branch
+- git add filename
+   - git
+- gitremote
+   - it will tells the remote in repository
+- git remote -v
+   - remote name along with repository link
+- git clone "repo url"
+   - it copy the repository files into local system
+- git remote and remotenme "repolink"
+   - it will creates a remote with remote name
+- git log
+   - it will gives u acommited history
+- git log --oneline
+   - it will gives u commited history in one line
+- git revert filename
+   - it will undoing
+- git reset filename
+   - it will resets u r file name
+- git rm filename
+   - removes the filename
+- git config user.name "username"
+   - to set your username 
+- git config user.gmail "user email"
+   - to set your email
+- git commit -m "meassage"
+   - to commit u r changes along with message
+- git push remotename branchname
+   - to sending the files from u r local system to github server
+- git pull remotename branchname
+   - to receivegithub files from repository to local system
