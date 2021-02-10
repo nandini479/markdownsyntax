@@ -50,3 +50,10 @@ def fun():
  `
  fun()
  `
+## task
+```
+void main()
+{
+   printf("hello world");
+   }
+ ```
