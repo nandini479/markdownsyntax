@@ -66,12 +66,13 @@ void main()
 [kits](http://www.kits.com/)
 ## git commands
 - git init
-   - to initilase
+   - to initilase 
 - git status
+   - current working status 
 - git branch
    - current working branch
 - git add filename
-   - git
+   - add the files into staging area
 - gitremote
    - it will tells the remote in repository
 - git remote -v
@@ -85,7 +86,7 @@ void main()
 - git log --oneline
    - it will gives u commited history in one line
 - git revert filename
-   - it will undoing
+   - it will undoing the changes
 - git reset filename
    - it will resets u r file name
 - git rm filename
