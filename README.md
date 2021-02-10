@@ -101,3 +101,5 @@ void main()
    - to sending the files from u r local system to github server
 - git pull remotename branchname
    - to receivegithub files from repository to local system
+## inserting images
+![images](https://github.com/nandini479/markdownsyntax/blob/master/download.jpg)
