@@ -55,5 +55,5 @@ def fun():
 void main()
 {
    printf("hello world");
-   }
+ }
  ```
