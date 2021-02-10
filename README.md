@@ -58,4 +58,9 @@ void main()
  }
  ```
 ## link 
-.[google].(http://www.google.com/)
+[google](http://www.google.com/)
+
+## add gmail link
+[gmail](http://www.gmail.com/)
+## add college website link
+[kits](http://www.kits.com/)
