@@ -66,7 +66,7 @@ void main()
 [kits](http://www.kits.com/)
 ## git commands
 - git init
-   - to initilase 
+   - to initilase github
 - git status
    - current working status 
 - git branch
