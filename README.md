@@ -104,4 +104,4 @@ void main()
 ## inserting images
 ![images](https://github.com/nandini479/markdownsyntax/blob/master/download.jpg)
 ## inserting videos
-[![rowdybaby](https://img.youtube.com/x6Q7c9RyMzk/0.jpg)](https://www.youtube.com/watch?v=x6Q7c9RyMzk)
+[![rowdybaby](https://img.youtube.com/vi/x6Q7c9RyMzk/0.jpg)](https://www.youtube.com/watch?v=x6Q7c9RyMzk)
